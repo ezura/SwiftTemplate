@@ -38,15 +38,15 @@
 			<key>Description</key>
 			<string>kind</string>
 			<key>Type</key>
-			<string>combo</string>
+			<string>popup</string>
 			<key>Default</key>
-			<string>struct</string>
+			<string>empty</string>
 			<key>Values</key>
 			<array>
+				<string>empty</string>
 				<string>struct</string>
 				<string>class</string>
 				<string>protocol</string>
-				<string>extension</string>
 			</array>
 			<key>NotPersisted</key>
 			<true/>
