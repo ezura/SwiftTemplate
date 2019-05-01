@@ -2,7 +2,7 @@
 
 This xctemplate can create swift files for `struct`, `class`, `protocol`.
 
-<img src="Images/Screenshot.png" height=300">
+<img src="Images/Screenshot.png" height=500>
 
 ## Usage
 
